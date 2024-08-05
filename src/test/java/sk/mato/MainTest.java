@@ -1,4 +1,4 @@
-package mato;
+package sk.mato;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
